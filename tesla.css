@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* .advert{
+    background-color: rgba(4, 4, 43, 0.979);
+    height: 40px;
+    color: white;
+    font-size: large;
+    padding-left: 30px;
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.advert a{
+    color: white;
+} */
+.navbar{
+    width: 85%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Segoe UI Bold', Tahoma, Geneva, Verdana, sans-serif;
+}
+.logo{
+    width: 80px;
+    margin-bottom: 400px;
+}
